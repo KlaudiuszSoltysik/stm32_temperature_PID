@@ -1,0 +1,8 @@
+../Core/Src/main.c:95:5:main	8	static
+../Core/Src/main.c:157:6:SystemClock_Config	88	static
+../Core/Src/main.c:203:7:calc_pid	64	static
+../Core/Src/main.c:224:5:ConvertTemperature	24	static
+../Core/Src/main.c:231:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:266:6:HAL_TIM_IC_CaptureCallback	16	static
+../Core/Src/main.c:283:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:311:6:Error_Handler	4	static,ignoring_inline_asm
